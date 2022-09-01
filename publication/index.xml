@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Home</title>
+    <link>/publication/</link>
+      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Publications</title>
+      <link>/publication/</link>
+    </image>
+    
+    <item>
+      <title>Are attention and cognitive control altered by fMRI scanner environment? Evidence from Go/No-go tasks in ADHD</title>
+      <link>/publication/are_attention/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/are_attention/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Concentrations of cortical GABA and glutamate in young adults with autism spectrum disorder</title>
+      <link>/publication/concentrations_of/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/concentrations_of/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fronto-parietal engagement in response inhibition is inversely scaled with attention-deficit/hyperactivity disorder symptom severity</title>
+      <link>/publication/fronto-parietal_engagement/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/fronto-parietal_engagement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Late fMRI response components are altered in autism spectrum disorder</title>
+      <link>/publication/late_fmri/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/late_fmri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Response dissociation in hierarchical cortical circuits: a unique feature of autism spectrum disorder</title>
+      <link>/publication/response_dissociation/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/response_dissociation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weaker neural suppression in autism</title>
+      <link>/publication/weaker_neural/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/weaker_neural/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Glutamatergic facilitation of neural responses in MT enhances motion perception in humans</title>
+      <link>/publication/glutamatergic_facilitation/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/glutamatergic_facilitation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Disrupted neural adaptation in autism spectrum disorder</title>
+      <link>/publication/disrupted_neural/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/disrupted_neural/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reduced auditory cortical adaptation in autism spectrum disorder</title>
+      <link>/publication/reduced_auditory/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/reduced_auditory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sex differences in visual motion processing</title>
+      <link>/publication/sex_differences/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/sex_differences/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computerized progressive attention training (CPAT) vs. active control in adults with ADHD</title>
+      <link>/publication/computerized_progressive/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/computerized_progressive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Isolating response inhibition in the brain: Parietal versus frontal contribution</title>
+      <link>/publication/isolating_response/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/isolating_response/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Attention functioning among adolescents with multiple learning, attentional, behavioral, and emotional difficulties</title>
+      <link>/publication/attention_functioning/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/attention_functioning/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

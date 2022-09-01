@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pnina Stern | Home</title>
+    <link>/author/pnina-stern/</link>
+      <atom:link href="/author/pnina-stern/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pnina Stern</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Pnina Stern</title>
+      <link>/author/pnina-stern/</link>
+    </image>
+    
+    <item>
+      <title>Are attention and cognitive control altered by fMRI scanner environment? Evidence from Go/No-go tasks in ADHD</title>
+      <link>/publication/are_attention/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/are_attention/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fronto-parietal engagement in response inhibition is inversely scaled with attention-deficit/hyperactivity disorder symptom severity</title>
+      <link>/publication/fronto-parietal_engagement/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/fronto-parietal_engagement/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

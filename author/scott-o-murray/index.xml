@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scott O Murray | Home</title>
+    <link>/author/scott-o-murray/</link>
+      <atom:link href="/author/scott-o-murray/index.xml" rel="self" type="application/rss+xml" />
+    <description>Scott O Murray</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Scott O Murray</title>
+      <link>/author/scott-o-murray/</link>
+    </image>
+    
+    <item>
+      <title>Concentrations of cortical GABA and glutamate in young adults with autism spectrum disorder</title>
+      <link>/publication/concentrations_of/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/concentrations_of/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Late fMRI response components are altered in autism spectrum disorder</title>
+      <link>/publication/late_fmri/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/late_fmri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Response dissociation in hierarchical cortical circuits: a unique feature of autism spectrum disorder</title>
+      <link>/publication/response_dissociation/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/response_dissociation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weaker neural suppression in autism</title>
+      <link>/publication/weaker_neural/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/weaker_neural/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Glutamatergic facilitation of neural responses in MT enhances motion perception in humans</title>
+      <link>/publication/glutamatergic_facilitation/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/glutamatergic_facilitation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Disrupted neural adaptation in autism spectrum disorder</title>
+      <link>/publication/disrupted_neural/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/disrupted_neural/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sex differences in visual motion processing</title>
+      <link>/publication/sex_differences/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/sex_differences/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

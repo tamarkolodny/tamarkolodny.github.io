@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stefan J Troche | Home</title>
+    <link>/author/stefan-j-troche/</link>
+      <atom:link href="/author/stefan-j-troche/index.xml" rel="self" type="application/rss+xml" />
+    <description>Stefan J Troche</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Stefan J Troche</title>
+      <link>/author/stefan-j-troche/</link>
+    </image>
+    
+    <item>
+      <title>Sex differences in visual motion processing</title>
+      <link>/publication/sex_differences/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/sex_differences/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
