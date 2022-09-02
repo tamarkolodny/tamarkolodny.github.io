@@ -23,6 +23,11 @@
   </url>
   
   <url>
+    <loc>/author/btamar-kolodny/b/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/are_attention/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -64,11 +69,6 @@
   
   <url>
     <loc>/author/shlomit-tsafrir/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/tamar-kolodny/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -286,10 +286,6 @@
   
   <url>
     <loc>/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>/author/tamar-kolodny/</loc>
   </url>
   
   <url>
